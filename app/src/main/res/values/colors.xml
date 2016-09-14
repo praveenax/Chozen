@@ -5,5 +5,6 @@
     <color name="colorAccent">#FF4081</color>
 
 
-    <color name="colorCustom">#BBDEFB</color>
+    <color name="colorCustom">#2ecc71</color>
+    <color name="colorAgree">#2ecc71</color>
 </resources>
