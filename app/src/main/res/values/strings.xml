@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Chozen</string>
+    <string name="btn_agree">Agree</string>
+    <string name="btn_reject">Reject</string>
 </resources>
